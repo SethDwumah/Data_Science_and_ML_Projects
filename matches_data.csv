@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,home_goals,away_goals,Date,Month,result,results
+13-Aug-21,Brentford,Arsenal,2,0,8/13/2021,8,H,H
+14-Aug-21,Burnley,Brighton and Hove Albion,1,2,8/14/2021,8,A,A
+14-Aug-21,Chelsea,Crystal Palace,3,0,8/14/2021,8,H,H
+14-Aug-21,Everton,Southampton,3,1,8/14/2021,8,H,H
+14-Aug-21,Leicester City,Wolverhampton Wanderers,1,0,8/14/2021,8,H,H
+14-Aug-21,Manchester United,Leeds United,5,1,8/14/2021,8,H,H
+14-Aug-21,Norwich City,Liverpool,0,3,8/14/2021,8,A,A
+14-Aug-21,Watford,Aston Villa,3,2,8/14/2021,8,H,H
+15-Aug-21,Newcastle United,West Ham United,2,4,8/15/2021,8,A,A
+15-Aug-21,Tottenham Hotspur,Manchester City,1,0,8/15/2021,8,H,H
+21-Aug-21,Aston Villa,Newcastle United,2,0,8/21/2021,8,H,H
+21-Aug-21,Brighton and Hove Albion,Watford,2,0,8/21/2021,8,H,H
+21-Aug-21,Crystal Palace,Brentford,0,0,8/21/2021,8,A,D
+21-Aug-21,Leeds United,Everton,2,2,8/21/2021,8,A,D
+21-Aug-21,Liverpool,Burnley,2,0,8/21/2021,8,H,H
+21-Aug-21,Manchester City,Norwich City,5,0,8/21/2021,8,H,H
+22-Aug-21,Arsenal,Chelsea,0,2,8/22/2021,8,A,A
+22-Aug-21,Southampton,Manchester United,1,1,8/22/2021,8,A,D
+22-Aug-21,Wolverhampton Wanderers,Tottenham Hotspur,0,1,8/22/2021,8,A,A
+23-Aug-21,West Ham United,Leicester City,4,1,8/23/2021,8,H,H
+28-Aug-21,Aston Villa,Brentford,1,1,8/28/2021,8,A,D
+28-Aug-21,Brighton and Hove Albion,Everton,0,2,8/28/2021,8,A,A
+28-Aug-21,Liverpool,Chelsea,1,1,8/28/2021,8,A,D
+28-Aug-21,Manchester City,Arsenal,5,0,8/28/2021,8,H,H
+28-Aug-21,Newcastle United,Southampton,2,2,8/28/2021,8,A,D
+28-Aug-21,Norwich City,Leicester City,1,2,8/28/2021,8,A,A
+28-Aug-21,West Ham United,Crystal Palace,2,2,8/28/2021,8,A,D
+29-Aug-21,Burnley,Leeds United,1,1,8/29/2021,8,A,D
+29-Aug-21,Tottenham Hotspur,Watford,1,0,8/29/2021,8,H,H
+29-Aug-21,Wolverhampton Wanderers,Manchester United,0,1,8/29/2021,8,A,A
+11-Sep-21,Arsenal,Norwich City,1,0,9/11/2021,9,H,H
+11-Sep-21,Brentford,Brighton and Hove Albion,0,1,9/11/2021,9,A,A
+11-Sep-21,Chelsea,Aston Villa,3,0,9/11/2021,9,H,H
+11-Sep-21,Crystal Palace,Tottenham Hotspur,3,0,9/11/2021,9,H,H
+11-Sep-21,Leicester City,Manchester City,0,1,9/11/2021,9,A,A
+11-Sep-21,Manchester United,Newcastle United,4,1,9/11/2021,9,H,H
+11-Sep-21,Southampton,West Ham United,0,0,9/11/2021,9,A,D
+11-Sep-21,Watford,Wolverhampton Wanderers,0,2,9/11/2021,9,A,A
+12-Sep-21,Leeds United,Liverpool,0,3,9/12/2021,9,A,A
+13-Sep-21,Everton,Burnley,3,1,9/13/2021,9,H,H
+17-Sep-21,Newcastle United,Leeds United,1,1,9/17/2021,9,A,D
+18-Sep-21,Aston Villa,Everton,3,0,9/18/2021,9,H,H
+18-Sep-21,Burnley,Arsenal,0,1,9/18/2021,9,A,A
+18-Sep-21,Liverpool,Crystal Palace,3,0,9/18/2021,9,H,H
+18-Sep-21,Manchester City,Southampton,0,0,9/18/2021,9,A,D
+18-Sep-21,Norwich City,Watford,1,3,9/18/2021,9,A,A
+18-Sep-21,Wolverhampton Wanderers,Brentford,0,2,9/18/2021,9,A,A
+19-Sep-21,Brighton and Hove Albion,Leicester City,2,1,9/19/2021,9,H,H
+19-Sep-21,Tottenham Hotspur,Chelsea,0,3,9/19/2021,9,A,A
+19-Sep-21,West Ham United,Manchester United,1,2,9/19/2021,9,A,A
+25-Sep-21,Brentford,Liverpool,3,3,9/25/2021,9,A,D
+25-Sep-21,Chelsea,Manchester City,0,1,9/25/2021,9,A,A
+25-Sep-21,Everton,Norwich City,2,0,9/25/2021,9,H,H
+25-Sep-21,Leeds United,West Ham United,1,2,9/25/2021,9,A,A
+25-Sep-21,Leicester City,Burnley,2,2,9/25/2021,9,A,D
+25-Sep-21,Manchester United,Aston Villa,0,1,9/25/2021,9,A,A
+25-Sep-21,Watford,Newcastle United,1,1,9/25/2021,9,A,D
+26-Sep-21,Arsenal,Tottenham Hotspur,3,1,9/26/2021,9,H,H
+26-Sep-21,Southampton,Wolverhampton Wanderers,0,1,9/26/2021,9,A,A
+27-Sep-21,Crystal Palace,Brighton and Hove Albion,1,1,9/27/2021,9,A,D
+2-Oct-21,Brighton and Hove Albion,Arsenal,0,0,10/2/2021,10,A,D
+2-Oct-21,Burnley,Norwich City,0,0,10/2/2021,10,A,D
+2-Oct-21,Chelsea,Southampton,3,1,10/2/2021,10,H,H
+2-Oct-21,Leeds United,Watford,1,0,10/2/2021,10,H,H
+2-Oct-21,Manchester United,Everton,1,1,10/2/2021,10,A,D
+2-Oct-21,Wolverhampton Wanderers,Newcastle United,2,1,10/2/2021,10,H,H
+3-Oct-21,Crystal Palace,Leicester City,2,2,10/3/2021,10,A,D
+3-Oct-21,Liverpool,Manchester City,2,2,10/3/2021,10,A,D
+3-Oct-21,Tottenham Hotspur,Aston Villa,2,1,10/3/2021,10,H,H
+3-Oct-21,West Ham United,Brentford,1,2,10/3/2021,10,A,A
+16-Oct-21,Aston Villa,Wolverhampton Wanderers,2,3,10/16/2021,10,A,A
+16-Oct-21,Brentford,Chelsea,0,1,10/16/2021,10,A,A
+16-Oct-21,Leicester City,Manchester United,4,2,10/16/2021,10,H,H
+16-Oct-21,Manchester City,Burnley,2,0,10/16/2021,10,H,H
+16-Oct-21,Norwich City,Brighton and Hove Albion,0,0,10/16/2021,10,A,D
+16-Oct-21,Southampton,Leeds United,1,0,10/16/2021,10,H,H
+16-Oct-21,Watford,Liverpool,0,5,10/16/2021,10,A,A
+17-Oct-21,Everton,West Ham United,0,1,10/17/2021,10,A,A
+17-Oct-21,Newcastle United,Tottenham Hotspur,2,3,10/17/2021,10,A,A
+18-Oct-21,Arsenal,Crystal Palace,2,2,10/18/2021,10,A,D
+22-Oct-21,Arsenal,Aston Villa,3,1,10/22/2021,10,H,H
+23-Oct-21,Brighton and Hove Albion,Manchester City,1,4,10/23/2021,10,A,A
+23-Oct-21,Chelsea,Norwich City,7,0,10/23/2021,10,H,H
+23-Oct-21,Crystal Palace,Newcastle United,1,1,10/23/2021,10,A,D
+23-Oct-21,Everton,Watford,2,5,10/23/2021,10,A,A
+23-Oct-21,Leeds United,Wolverhampton Wanderers,1,1,10/23/2021,10,A,D
+23-Oct-21,Southampton,Burnley,2,2,10/23/2021,10,A,D
+24-Oct-21,Brentford,Leicester City,1,2,10/24/2021,10,A,A
+24-Oct-21,Manchester United,Liverpool,0,5,10/24/2021,10,A,A
+24-Oct-21,West Ham United,Tottenham Hotspur,1,0,10/24/2021,10,H,H
+30-Oct-21,Burnley,Brentford,3,1,10/30/2021,10,H,H
+30-Oct-21,Leicester City,Arsenal,0,2,10/30/2021,10,A,A
+30-Oct-21,Liverpool,Brighton and Hove Albion,2,2,10/30/2021,10,A,D
+30-Oct-21,Manchester City,Crystal Palace,0,2,10/30/2021,10,A,A
+30-Oct-21,Newcastle United,Chelsea,0,3,10/30/2021,10,A,A
+30-Oct-21,Tottenham Hotspur,Manchester United,0,3,10/30/2021,10,A,A
+30-Oct-21,Watford,Southampton,0,1,10/30/2021,10,A,A
+31-Oct-21,Aston Villa,West Ham United,1,4,10/31/2021,10,A,A
+31-Oct-21,Norwich City,Leeds United,1,2,10/31/2021,10,A,A
+1-Nov-21,Wolverhampton Wanderers,Everton,2,1,11/1/2021,11,H,H
+5-Nov-21,Southampton,Aston Villa,1,0,11/5/2021,11,H,H
+6-Nov-21,Brentford,Norwich City,1,2,11/6/2021,11,A,A
+6-Nov-21,Brighton and Hove Albion,Newcastle United,1,1,11/6/2021,11,A,D
+6-Nov-21,Chelsea,Burnley,1,1,11/6/2021,11,A,D
+6-Nov-21,Crystal Palace,Wolverhampton Wanderers,2,0,11/6/2021,11,H,H
+6-Nov-21,Manchester United,Manchester City,0,2,11/6/2021,11,A,A
+7-Nov-21,Arsenal,Watford,1,0,11/7/2021,11,H,H
+7-Nov-21,Everton,Tottenham Hotspur,0,0,11/7/2021,11,A,D
+7-Nov-21,Leeds United,Leicester City,1,1,11/7/2021,11,A,D
+7-Nov-21,West Ham United,Liverpool,3,2,11/7/2021,11,H,H
+20-Nov-21,Aston Villa,Brighton and Hove Albion,2,0,11/20/2021,11,H,H
+20-Nov-21,Burnley,Crystal Palace,3,3,11/20/2021,11,A,D
+20-Nov-21,Leicester City,Chelsea,0,3,11/20/2021,11,A,A
+20-Nov-21,Liverpool,Arsenal,4,0,11/20/2021,11,H,H
+20-Nov-21,Newcastle United,Brentford,3,3,11/20/2021,11,A,D
+20-Nov-21,Norwich City,Southampton,2,1,11/20/2021,11,H,H
+20-Nov-21,Watford,Manchester United,4,1,11/20/2021,11,H,H
+20-Nov-21,Wolverhampton Wanderers,West Ham United,1,0,11/20/2021,11,H,H
+21-Nov-21,Manchester City,Everton,3,0,11/21/2021,11,H,H
+21-Nov-21,Tottenham Hotspur,Leeds United,2,1,11/21/2021,11,H,H
+27-Nov-21,Arsenal,Newcastle United,2,0,11/27/2021,11,H,H
+27-Nov-21,Brighton and Hove Albion,Leeds United,0,0,11/27/2021,11,A,D
+27-Nov-21,Crystal Palace,Aston Villa,1,2,11/27/2021,11,A,A
+27-Nov-21,Liverpool,Southampton,4,0,11/27/2021,11,H,H
+27-Nov-21,Norwich City,Wolverhampton Wanderers,0,0,11/27/2021,11,A,D
+28-Nov-21,Brentford,Everton,1,0,11/28/2021,11,H,H
+28-Nov-21,Chelsea,Manchester United,1,1,11/28/2021,11,A,D
+28-Nov-21,Leicester City,Watford,4,2,11/28/2021,11,H,H
+28-Nov-21,Manchester City,West Ham United,2,1,11/28/2021,11,H,H
+30-Nov-21,Leeds United,Crystal Palace,1,0,11/30/2021,11,H,H
+30-Nov-21,Newcastle United,Norwich City,1,1,11/30/2021,11,A,D
+1-Dec-21,Aston Villa,Manchester City,1,2,12/1/2021,12,A,A
+1-Dec-21,Everton,Liverpool,1,4,12/1/2021,12,A,A
+1-Dec-21,Southampton,Leicester City,2,2,12/1/2021,12,A,D
+1-Dec-21,Watford,Chelsea,1,2,12/1/2021,12,A,A
+1-Dec-21,West Ham United,Brighton and Hove Albion,1,1,12/1/2021,12,A,D
+1-Dec-21,Wolverhampton Wanderers,Burnley,0,0,12/1/2021,12,A,D
+2-Dec-21,Manchester United,Arsenal,3,2,12/2/2021,12,H,H
+2-Dec-21,Tottenham Hotspur,Brentford,2,0,12/2/2021,12,H,H
+4-Dec-21,Newcastle United,Burnley,1,0,12/4/2021,12,H,H
+4-Dec-21,Southampton,Brighton and Hove Albion,1,1,12/4/2021,12,A,D
+4-Dec-21,Watford,Manchester City,1,3,12/4/2021,12,A,A
+4-Dec-21,West Ham United,Chelsea,3,2,12/4/2021,12,H,H
+4-Dec-21,Wolverhampton Wanderers,Liverpool,0,1,12/4/2021,12,A,A
+5-Dec-21,Aston Villa,Leicester City,2,1,12/5/2021,12,H,H
+5-Dec-21,Leeds United,Brentford,2,2,12/5/2021,12,A,D
+5-Dec-21,Manchester United,Crystal Palace,1,0,12/5/2021,12,H,H
+5-Dec-21,Tottenham Hotspur,Norwich City,3,0,12/5/2021,12,H,H
+6-Dec-21,Everton,Arsenal,2,1,12/6/2021,12,H,H
+10-Dec-21,Brentford,Watford,2,1,12/10/2021,12,H,H
+11-Dec-21,Arsenal,Southampton,3,0,12/11/2021,12,H,H
+11-Dec-21,Chelsea,Leeds United,3,2,12/11/2021,12,H,H
+11-Dec-21,Liverpool,Aston Villa,1,0,12/11/2021,12,H,H
+11-Dec-21,Manchester City,Wolverhampton Wanderers,1,0,12/11/2021,12,H,H
+11-Dec-21,Norwich City,Manchester United,0,1,12/11/2021,12,A,A
+12-Dec-21,Burnley,West Ham United,0,0,12/12/2021,12,A,D
+12-Dec-21,Crystal Palace,Everton,3,1,12/12/2021,12,H,H
+12-Dec-21,Leicester City,Newcastle United,4,0,12/12/2021,12,H,H
+14-Dec-21,Manchester City,Leeds United,7,0,12/14/2021,12,H,H
+14-Dec-21,Norwich City,Aston Villa,0,2,12/14/2021,12,A,A
+15-Dec-21,Arsenal,West Ham United,2,0,12/15/2021,12,H,H
+15-Dec-21,Brighton and Hove Albion,Wolverhampton Wanderers,0,1,12/15/2021,12,A,A
+15-Dec-21,Crystal Palace,Southampton,2,2,12/15/2021,12,A,D
+16-Dec-21,Chelsea,Everton,1,1,12/16/2021,12,A,D
+16-Dec-21,Liverpool,Newcastle United,3,1,12/16/2021,12,H,H
+18-Dec-21,Leeds United,Arsenal,1,4,12/18/2021,12,A,A
+19-Dec-21,Newcastle United,Manchester City,0,4,12/19/2021,12,A,A
+19-Dec-21,Tottenham Hotspur,Liverpool,2,2,12/19/2021,12,A,D
+19-Dec-21,Wolverhampton Wanderers,Chelsea,0,0,12/19/2021,12,A,D
+26-Dec-21,Aston Villa,Chelsea,1,3,12/26/2021,12,A,A
+26-Dec-21,Brighton and Hove Albion,Brentford,2,0,12/26/2021,12,H,H
+26-Dec-21,Manchester City,Leicester City,6,3,12/26/2021,12,H,H
+26-Dec-21,Norwich City,Arsenal,0,5,12/26/2021,12,A,A
+26-Dec-21,Tottenham Hotspur,Crystal Palace,3,0,12/26/2021,12,H,H
+26-Dec-21,West Ham United,Southampton,2,3,12/26/2021,12,A,A
+27-Dec-21,Newcastle United,Manchester United,1,1,12/27/2021,12,A,D
+28-Dec-21,Crystal Palace,Norwich City,3,0,12/28/2021,12,H,H
+28-Dec-21,Leicester City,Liverpool,1,0,12/28/2021,12,H,H
+28-Dec-21,Southampton,Tottenham Hotspur,1,1,12/28/2021,12,A,D
+28-Dec-21,Watford,West Ham United,1,4,12/28/2021,12,A,A
+29-Dec-21,Brentford,Manchester City,0,1,12/29/2021,12,A,A
+29-Dec-21,Chelsea,Brighton and Hove Albion,1,1,12/29/2021,12,A,D
+30-Dec-21,Manchester United,Burnley,3,1,12/30/2021,12,H,H
+1-Jan-22,Arsenal,Manchester City,1,2,1/1/2022,1,A,A
+1-Jan-22,Crystal Palace,West Ham United,2,3,1/1/2022,1,A,A
+1-Jan-22,Watford,Tottenham Hotspur,0,1,1/1/2022,1,A,A
+2-Jan-22,Brentford,Aston Villa,2,1,1/2/2022,1,H,H
+2-Jan-22,Chelsea,Liverpool,2,2,1/2/2022,1,A,D
+2-Jan-22,Everton,Brighton and Hove Albion,2,3,1/2/2022,1,A,A
+2-Jan-22,Leeds United,Burnley,3,1,1/2/2022,1,H,H
+3-Jan-22,Manchester United,Wolverhampton Wanderers,0,1,1/3/2022,1,A,A
+11-Jan-22,Southampton,Brentford,4,1,1/11/2022,1,H,H
+12-Jan-22,West Ham United,Norwich City,2,0,1/12/2022,1,H,H
+14-Jan-22,Brighton and Hove Albion,Crystal Palace,1,1,1/14/2022,1,A,D
+15-Jan-22,Aston Villa,Manchester United,2,2,1/15/2022,1,A,D
+15-Jan-22,Manchester City,Chelsea,1,0,1/15/2022,1,H,H
+15-Jan-22,Newcastle United,Watford,1,1,1/15/2022,1,A,D
+15-Jan-22,Norwich City,Everton,2,1,1/15/2022,1,H,H
+15-Jan-22,Wolverhampton Wanderers,Southampton,3,1,1/15/2022,1,H,H
+16-Jan-22,Liverpool,Brentford,3,0,1/16/2022,1,H,H
+16-Jan-22,West Ham United,Leeds United,2,3,1/16/2022,1,A,A
+18-Jan-22,Brighton and Hove Albion,Chelsea,1,1,1/18/2022,1,A,D
+19-Jan-22,Brentford,Manchester United,1,3,1/19/2022,1,A,A
+19-Jan-22,Leicester City,Tottenham Hotspur,2,3,1/19/2022,1,A,A
+21-Jan-22,Watford,Norwich City,0,3,1/21/2022,1,A,A
+22-Jan-22,Brentford,Wolverhampton Wanderers,1,2,1/22/2022,1,A,A
+22-Jan-22,Everton,Aston Villa,0,1,1/22/2022,1,A,A
+22-Jan-22,Leeds United,Newcastle United,0,1,1/22/2022,1,A,A
+22-Jan-22,Manchester United,West Ham United,1,0,1/22/2022,1,H,H
+22-Jan-22,Southampton,Manchester City,1,1,1/22/2022,1,A,D
+23-Jan-22,Arsenal,Burnley,0,0,1/23/2022,1,A,D
+23-Jan-22,Chelsea,Tottenham Hotspur,2,0,1/23/2022,1,H,H
+23-Jan-22,Crystal Palace,Liverpool,1,3,1/23/2022,1,A,A
+23-Jan-22,Leicester City,Brighton and Hove Albion,1,1,1/23/2022,1,A,D
+5-Feb-22,Burnley,Watford,0,0,2/5/2022,2,A,D
+8-Feb-22,Burnley,Manchester United,1,1,2/8/2022,2,A,D
+8-Feb-22,Newcastle United,Everton,3,1,2/8/2022,2,H,H
+8-Feb-22,West Ham United,Watford,1,0,2/8/2022,2,H,H
+9-Feb-22,Aston Villa,Leeds United,3,3,2/9/2022,2,A,D
+9-Feb-22,Manchester City,Brentford,2,0,2/9/2022,2,H,H
+9-Feb-22,Norwich City,Crystal Palace,1,1,2/9/2022,2,A,D
+9-Feb-22,Tottenham Hotspur,Southampton,2,3,2/9/2022,2,A,A
+10-Feb-22,Liverpool,Leicester City,2,0,2/10/2022,2,H,H
+10-Feb-22,Wolverhampton Wanderers,Arsenal,0,1,2/10/2022,2,A,A
+12-Feb-22,Brentford,Crystal Palace,0,0,2/12/2022,2,A,D
+12-Feb-22,Everton,Leeds United,3,0,2/12/2022,2,H,H
+12-Feb-22,Manchester United,Southampton,1,1,2/12/2022,2,A,D
+12-Feb-22,Norwich City,Manchester City,0,4,2/12/2022,2,A,A
+12-Feb-22,Watford,Brighton and Hove Albion,0,2,2/12/2022,2,A,A
+13-Feb-22,Burnley,Liverpool,0,1,2/13/2022,2,A,A
+13-Feb-22,Leicester City,West Ham United,2,2,2/13/2022,2,A,D
+13-Feb-22,Newcastle United,Aston Villa,1,0,2/13/2022,2,H,H
+13-Feb-22,Tottenham Hotspur,Wolverhampton Wanderers,0,2,2/13/2022,2,A,A
+15-Feb-22,Manchester United,Brighton and Hove Albion,2,0,2/15/2022,2,H,H
+19-Feb-22,Arsenal,Brentford,2,1,2/19/2022,2,H,H
+19-Feb-22,Aston Villa,Watford,0,1,2/19/2022,2,A,A
+19-Feb-22,Brighton and Hove Albion,Burnley,0,3,2/19/2022,2,A,A
+19-Feb-22,Crystal Palace,Chelsea,0,1,2/19/2022,2,A,A
+19-Feb-22,Liverpool,Norwich City,3,1,2/19/2022,2,H,H
+19-Feb-22,Manchester City,Tottenham Hotspur,2,3,2/19/2022,2,A,A
+19-Feb-22,Southampton,Everton,2,0,2/19/2022,2,H,H
+19-Feb-22,West Ham United,Newcastle United,1,1,2/19/2022,2,A,D
+20-Feb-22,Leeds United,Manchester United,2,4,2/20/2022,2,A,A
+20-Feb-22,Wolverhampton Wanderers,Leicester City,2,1,2/20/2022,2,H,H
+23-Feb-22,Burnley,Tottenham Hotspur,1,0,2/23/2022,2,H,H
+23-Feb-22,Liverpool,Leeds United,6,0,2/23/2022,2,H,H
+23-Feb-22,Watford,Crystal Palace,1,4,2/23/2022,2,A,A
+24-Feb-22,Arsenal,Wolverhampton Wanderers,2,1,2/24/2022,2,H,H
+25-Feb-22,Southampton,Norwich City,2,0,2/25/2022,2,H,H
+26-Feb-22,Brentford,Newcastle United,0,2,2/26/2022,2,A,A
+26-Feb-22,Brighton and Hove Albion,Aston Villa,0,2,2/26/2022,2,A,A
+26-Feb-22,Crystal Palace,Burnley,1,1,2/26/2022,2,A,D
+26-Feb-22,Everton,Manchester City,0,1,2/26/2022,2,A,A
+26-Feb-22,Leeds United,Tottenham Hotspur,0,4,2/26/2022,2,A,A
+26-Feb-22,Manchester United,Watford,0,0,2/26/2022,2,A,D
+27-Feb-22,West Ham United,Wolverhampton Wanderers,1,0,2/27/2022,2,H,H
+1-Mar-22,Burnley,Leicester City,0,2,3/1/2022,3,A,A
+5-Mar-22,Aston Villa,Southampton,4,0,3/5/2022,3,H,H
+5-Mar-22,Burnley,Chelsea,0,4,3/5/2022,3,A,A
+5-Mar-22,Leicester City,Leeds United,1,0,3/5/2022,3,H,H
+5-Mar-22,Liverpool,West Ham United,1,0,3/5/2022,3,H,H
+5-Mar-22,Newcastle United,Brighton and Hove Albion,2,1,3/5/2022,3,H,H
+5-Mar-22,Norwich City,Brentford,1,3,3/5/2022,3,A,A
+5-Mar-22,Wolverhampton Wanderers,Crystal Palace,0,2,3/5/2022,3,A,A
+6-Mar-22,Manchester City,Manchester United,4,1,3/6/2022,3,H,H
+6-Mar-22,Watford,Arsenal,2,3,3/6/2022,3,A,A
+7-Mar-22,Tottenham Hotspur,Everton,5,0,3/7/2022,3,H,H
+10-Mar-22,Leeds United,Aston Villa,0,3,3/10/2022,3,A,A
+10-Mar-22,Norwich City,Chelsea,1,3,3/10/2022,3,A,A
+10-Mar-22,Southampton,Newcastle United,1,2,3/10/2022,3,A,A
+10-Mar-22,Wolverhampton Wanderers,Watford,4,0,3/10/2022,3,H,H
+12-Mar-22,Brentford,Burnley,2,0,3/12/2022,3,H,H
+12-Mar-22,Brighton and Hove Albion,Liverpool,0,2,3/12/2022,3,A,A
+12-Mar-22,Manchester United,Tottenham Hotspur,3,2,3/12/2022,3,H,H
+13-Mar-22,Arsenal,Leicester City,2,0,3/13/2022,3,H,H
+13-Mar-22,Chelsea,Newcastle United,1,0,3/13/2022,3,H,H
+13-Mar-22,Everton,Wolverhampton Wanderers,0,1,3/13/2022,3,A,A
+13-Mar-22,Leeds United,Norwich City,2,1,3/13/2022,3,H,H
+13-Mar-22,Southampton,Watford,1,2,3/13/2022,3,A,A
+13-Mar-22,West Ham United,Aston Villa,2,1,3/13/2022,3,H,H
+14-Mar-22,Crystal Palace,Manchester City,0,0,3/14/2022,3,A,D
+16-Mar-22,Arsenal,Liverpool,0,2,3/16/2022,3,A,A
+16-Mar-22,Brighton and Hove Albion,Tottenham Hotspur,0,2,3/16/2022,3,A,A
+17-Mar-22,Everton,Newcastle United,1,0,3/17/2022,3,H,H
+18-Mar-22,Wolverhampton Wanderers,Leeds United,2,3,3/18/2022,3,A,A
+19-Mar-22,Aston Villa,Arsenal,0,1,3/19/2022,3,A,A
+20-Mar-22,Leicester City,Brentford,2,1,3/20/2022,3,H,H
+20-Mar-22,Tottenham Hotspur,West Ham United,3,1,3/20/2022,3,H,H
+2-Apr-22,Brighton and Hove Albion,Norwich City,0,0,4/2/2022,4,A,D
+2-Apr-22,Burnley,Manchester City,0,2,4/2/2022,4,A,A
+2-Apr-22,Chelsea,Brentford,1,4,4/2/2022,4,A,A
+2-Apr-22,Leeds United,Southampton,1,1,4/2/2022,4,A,D
+2-Apr-22,Liverpool,Watford,2,0,4/2/2022,4,H,H
+2-Apr-22,Manchester United,Leicester City,1,1,4/2/2022,4,A,D
+2-Apr-22,Wolverhampton Wanderers,Aston Villa,2,1,4/2/2022,4,H,H
+3-Apr-22,Tottenham Hotspur,Newcastle United,5,1,4/3/2022,4,H,H
+3-Apr-22,West Ham United,Everton,2,1,4/3/2022,4,H,H
+4-Apr-22,Crystal Palace,Arsenal,3,0,4/4/2022,4,H,H
+6-Apr-22,Burnley,Everton,3,2,4/6/2022,4,H,H
+8-Apr-22,Newcastle United,Wolverhampton Wanderers,1,0,4/8/2022,4,H,H
+9-Apr-22,Arsenal,Brighton and Hove Albion,1,2,4/9/2022,4,A,A
+9-Apr-22,Aston Villa,Tottenham Hotspur,0,4,4/9/2022,4,A,A
+9-Apr-22,Everton,Manchester United,1,0,4/9/2022,4,H,H
+9-Apr-22,Southampton,Chelsea,0,6,4/9/2022,4,A,A
+9-Apr-22,Watford,Leeds United,0,3,4/9/2022,4,A,A
+10-Apr-22,Brentford,West Ham United,2,0,4/10/2022,4,H,H
+10-Apr-22,Leicester City,Crystal Palace,2,1,4/10/2022,4,H,H
+10-Apr-22,Manchester City,Liverpool,2,2,4/10/2022,4,A,D
+10-Apr-22,Norwich City,Burnley,2,0,4/10/2022,4,H,H
+16-Apr-22,Manchester United,Norwich City,3,2,4/16/2022,4,H,H
+16-Apr-22,Southampton,Arsenal,1,0,4/16/2022,4,H,H
+16-Apr-22,Tottenham Hotspur,Brighton and Hove Albion,0,1,4/16/2022,4,A,A
+16-Apr-22,Watford,Brentford,1,2,4/16/2022,4,A,A
+17-Apr-22,Newcastle United,Leicester City,2,1,4/17/2022,4,H,H
+17-Apr-22,West Ham United,Burnley,1,1,4/17/2022,4,A,D
+19-Apr-22,Liverpool,Manchester United,4,0,4/19/2022,4,H,H
+20-Apr-22,Chelsea,Arsenal,2,4,4/20/2022,4,A,A
+20-Apr-22,Everton,Leicester City,1,1,4/20/2022,4,A,D
+20-Apr-22,Manchester City,Brighton and Hove Albion,3,0,4/20/2022,4,H,H
+20-Apr-22,Newcastle United,Crystal Palace,1,0,4/20/2022,4,H,H
+21-Apr-22,Burnley,Southampton,2,0,4/21/2022,4,H,H
+23-Apr-22,Arsenal,Manchester United,3,1,4/23/2022,4,H,H
+23-Apr-22,Brentford,Tottenham Hotspur,0,0,4/23/2022,4,A,D
+23-Apr-22,Leicester City,Aston Villa,0,0,4/23/2022,4,A,D
+23-Apr-22,Manchester City,Watford,5,1,4/23/2022,4,H,H
+23-Apr-22,Norwich City,Newcastle United,0,3,4/23/2022,4,A,A
+24-Apr-22,Brighton and Hove Albion,Southampton,2,2,4/24/2022,4,A,D
+24-Apr-22,Burnley,Wolverhampton Wanderers,1,0,4/24/2022,4,H,H
+24-Apr-22,Chelsea,West Ham United,1,0,4/24/2022,4,H,H
+24-Apr-22,Liverpool,Everton,2,0,4/24/2022,4,H,H
+25-Apr-22,Crystal Palace,Leeds United,0,0,4/25/2022,4,A,D
+28-Apr-22,Manchester United,Chelsea,1,1,4/28/2022,4,A,D
+30-Apr-22,Aston Villa,Norwich City,2,0,4/30/2022,4,H,H
+30-Apr-22,Leeds United,Manchester City,0,4,4/30/2022,4,A,A
+30-Apr-22,Newcastle United,Liverpool,0,1,4/30/2022,4,A,A
+30-Apr-22,Southampton,Crystal Palace,1,2,4/30/2022,4,A,A
+30-Apr-22,Watford,Burnley,1,2,4/30/2022,4,A,A
+30-Apr-22,Wolverhampton Wanderers,Brighton and Hove Albion,0,3,4/30/2022,4,A,A
+1-May-22,Everton,Chelsea,1,0,5/1/2022,5,H,H
+1-May-22,Tottenham Hotspur,Leicester City,3,1,5/1/2022,5,H,H
+1-May-22,West Ham United,Arsenal,1,2,5/1/2022,5,A,A
+2-May-22,Manchester United,Brentford,3,0,5/2/2022,5,H,H
+7-May-22,Brentford,Southampton,3,0,5/7/2022,5,H,H
+7-May-22,Brighton and Hove Albion,Manchester United,4,0,5/7/2022,5,H,H
+7-May-22,Burnley,Aston Villa,1,3,5/7/2022,5,A,A
+7-May-22,Chelsea,Wolverhampton Wanderers,2,2,5/7/2022,5,A,D
+7-May-22,Crystal Palace,Watford,1,0,5/7/2022,5,H,H
+7-May-22,Liverpool,Tottenham Hotspur,1,1,5/7/2022,5,A,D
+8-May-22,Arsenal,Leeds United,2,1,5/8/2022,5,H,H
+8-May-22,Leicester City,Everton,1,2,5/8/2022,5,A,A
+8-May-22,Manchester City,Newcastle United,5,0,5/8/2022,5,H,H
+8-May-22,Norwich City,West Ham United,0,4,5/8/2022,5,A,A
+10-May-22,Aston Villa,Liverpool,1,2,5/10/2022,5,A,A
+11-May-22,Leeds United,Chelsea,0,3,5/11/2022,5,A,A
+11-May-22,Leicester City,Norwich City,3,0,5/11/2022,5,H,H
+11-May-22,Watford,Everton,0,0,5/11/2022,5,A,D
+11-May-22,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022,5,A,A
+12-May-22,Tottenham Hotspur,Arsenal,3,0,5/12/2022,5,H,H
+15-May-22,Aston Villa,Crystal Palace,1,1,5/15/2022,5,A,D
+15-May-22,Everton,Brentford,2,3,5/15/2022,5,A,A
+15-May-22,Leeds United,Brighton and Hove Albion,1,1,5/15/2022,5,A,D
+15-May-22,Tottenham Hotspur,Burnley,1,0,5/15/2022,5,H,H
+15-May-22,Watford,Leicester City,1,5,5/15/2022,5,A,A
+15-May-22,West Ham United,Manchester City,2,2,5/15/2022,5,A,D
+15-May-22,Wolverhampton Wanderers,Norwich City,1,1,5/15/2022,5,A,D
+16-May-22,Newcastle United,Arsenal,2,0,5/16/2022,5,H,H
+17-May-22,Southampton,Liverpool,1,2,5/17/2022,5,A,A
+19-May-22,Aston Villa,Burnley,1,1,5/19/2022,5,A,D
+19-May-22,Chelsea,Leicester City,1,1,5/19/2022,5,A,D
+19-May-22,Everton,Crystal Palace,3,2,5/19/2022,5,H,H
+22-May-22,Arsenal,Everton,5,1,5/22/2022,5,H,H
+22-May-22,Brentford,Leeds United,1,2,5/22/2022,5,A,A
+22-May-22,Brighton and Hove Albion,West Ham United,3,1,5/22/2022,5,H,H
+22-May-22,Burnley,Newcastle United,1,2,5/22/2022,5,A,A
+22-May-22,Chelsea,Watford,2,1,5/22/2022,5,H,H
+22-May-22,Crystal Palace,Manchester United,1,0,5/22/2022,5,H,H
+22-May-22,Leicester City,Southampton,4,1,5/22/2022,5,H,H
+22-May-22,Liverpool,Wolverhampton Wanderers,3,1,5/22/2022,5,H,H
+22-May-22,Manchester City,Aston Villa,3,2,5/22/2022,5,H,H
+22-May-22,Norwich City,Tottenham Hotspur,0,5,5/22/2022,5,A,A
