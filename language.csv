@@ -1,0 +1,138 @@
+,Language,Original purpose,Imperative,Object-oriented,Functional,Procedural,Generic,Reflective,Event-driven,Standardized?
+0,1C:Enterprise programming language,"Application, RAD, business, general, web, mobile",Yes,No,Yes,Yes,Yes,Yes,Yes,No
+1,ActionScript 3.0,"Application, client-side, web",Yes,Yes,Yes,No,No,No,Yes,"Yes1996, ECMA"
+2,Ada,"Application, embedded, realtime, system",Yes,Yes[2],No,Yes[3],Yes[4],No,No,"Yes1983, 2005, 2012, ANSI, ISO, GOST 27831-88[7]"
+3,Aldor,"Highly domain-specific, symbolic computing",Yes,Yes,Yes,No,No,No,No,No
+4,ALGOL 58,Application,Yes,No,No,No,No,No,No,No
+5,ALGOL 60,Application,Yes,No,No,Yes,Yes,No,No,"Yes1960, IFIP WG 2.1, ISO[8]"
+6,ALGOL 68,Application,Yes,No,Yes,Yes,Yes,No,No,"Yes1968, IFIP WG 2.1, GOST 27974-88,[9]"
+7,Ateji PX,Parallel application,No,Yes,No,No,No,No,No,No
+8,APL,"Application, data processing",Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Yes1989, ISO"
+9,Assembly language,General,Yes,No,No,No,No,No,No,Yes1985 IEEE 694-1985[10]
+10,AutoHotkey,"GUI automation (macros), highly domain-specific",Yes,Yes[11],No,Yes,No,No,Yes,No
+11,AutoIt,"GUI automation (macros), highly domain-specific",Yes,No,No,Yes,No,No,Yes,No
+12,Ballerina,"Integration, agile, server-side, general",Yes,Yes,Yes,Yes,No,No,Yes,De facto standard via Ballerina Language Specification[12]
+13,Bash,"Shell, scripting",Yes,No,No,Yes,No,No,No,Optionally POSIX.2[13]
+14,BASIC,"Application, education",Yes,No,No,Yes,No,No,No,"Yes1983, ANSI, ISO, ECMA"
+15,BeanShell,"Application, scripting",Yes,Yes,Yes,No,No,Yes,No,"NoIn progress, JCP[14]"
+16,BLISS,System,No,No,No,Yes,No,No,No,No
+17,BlitzMax,"Application, game",Yes,Yes,No,Yes,No,Yes,No,No
+18,Boo,"Application, game scripting",No,Yes,No,No,No,No,No,No
+19,C,"Application, system,[15] general purpose, low-level operations",Yes,No,No,Yes,No,No,No,"Yes1989, ANSI C89, ISO C90, ISO C99, ISO C11, ISO C18[16]"
+20,C++,"Application, system",Yes,Yes,Yes,Yes,Yes,No,No,"Yes1998, ISO/IEC 2003, ISO/IEC 2011,ISO/IEC 2014,ISO/IEC 2017[17]"
+21,C#,"Application, RAD, business, client-side, general, server-side, web, game programming",Yes,Yes,Yes[18],Yes,Yes,Yes,Yes,"Yes2000, ECMA, ISO[19]"
+22,Clarion,"General, business, web",Yes,Yes,Yes[20],No,No,No,No,Un­known
+23,Clean,General,No,No,Yes,No,Yes,No,No,No
+24,Clojure,General,No,No,Yes,No,No,No,No,No
+25,CLU,General,Yes,Yes,No,Yes,Yes,No,No,No
+26,COBOL,"Application, business",Yes,Yes,No,Yes,No,No,No,"Yes1968 ANSI X3.23, 1974, 1985; ISO/IEC 1989:1985, 2002, 2014"
+27,Cobra,"Application, business, general, web",Yes,Yes,Yes,No,Yes,Yes,No,No
+28,ColdFusion (CFML),Web,No,Yes,No,Yes,No,No,No,No
+29,Common Lisp,General,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Yes1994, ANSI"
+30,COMAL 80,Education,Yes,No,No,Yes,No,No,No,No
+31,Crystal,General purpose,Yes,Yes[21],Yes,Yes,No,No,No,No
+32,Curry,Application,No,No,Yes,No,Yes,No,No,De facto standard via Curry Language Report
+33,Cython,"Application, general, numerical computing",Yes,Yes,Yes,No,No,Yes,No,No
+34,D,"Application, system",Yes,Yes,Yes,Yes,Yes,Yes,No,No
+35,Dart,"Application, web, server-side, mobile, IoT",Yes,Yes,Yes,Yes,Yes,No,Yes,YesECMA-408 standard
+36,Dylan,Application,No,Yes,Yes,No,No,No,No,No
+37,Eiffel,"General, application, business, client-side, server-side, web (EWF)",Yes,Yes,Yes[23][24],No,Yes,Yes Erl-G,Yes Agents,"Yes2005, ECMA, ISO[25]"
+38,ELAN,Education,Yes,No,No,Yes,No,No,No,No
+39,Elixir,"Application, distributed",No,No,Yes,No,No,Yes,Yes,No
+40,Erlang,"Application, distributed",No,No,Yes,No,No,Yes,Yes,No
+41,Euphoria,Application,No,No,No,Yes,No,Yes,No,No
+42,Factor,General,Yes,No,Can be viewed as,No,Yes,Yes,No,No
+43,FP,,No,No,Yes,No,No,No,No,No
+44,F#,Application,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+45,Forth,General,Yes,No,Can be viewed as,Yes,No,No,No,"Yes1994, ANSI"
+46,Fortran,"Application, numerical computing",Yes,Yes,Yes,Yes,Yes,No,No,"Yes1966, ANSI 66, ANSI 77, MIL-STD-1753, ISO 90, ISO 95, ISO 2003, ISO/IEC 1539-1:2010 (2008), ISO/IEC JTC1/SC22/WG5 N2145 (2018)"
+47,FreeBASIC,"Application, numerical computing",Yes,Yes,No,Yes,Yes,No,No,No
+48,Gambas,Application,Yes,Yes,No,No,No,No,Yes,No
+49,Game Maker Language,"Application, game programming",Yes,Yes,No,No,No,No,Yes,No
+50,GLBasic,"Application, games",Yes,Yes,No,Yes,No,No,No,No
+51,Go,"Application, web, server-side",Yes,Can be viewed as[26],No,Yes,Yes,Yes,Yes,De facto standard via Go Language Specification
+52,Gosu,"Application, general, scripting, web",Yes,Yes,No,No,Yes,Yes,No,No
+53,GraphTalk,Application,No,Yes,No,No,No,No,No,No
+54,Groovy,"Application, general, scripting, web",Yes,Yes,Yes,Yes,Yes,Yes,Yes,"In progress, JCP[27]"
+55,Harbour,"Application, business, data processing, general, web",Yes,Yes,Yes,Yes,Yes,Yes,No,No
+56,Haskell,Application,No,No,Yes,No,Yes,No,No,"Yes2010, Haskell 2010[28]"
+57,Haxe,"Application, general, web",Yes,Yes,Yes,No,Yes,Yes,No,No
+58,HyperNext,"Application, education",No,No,No,Yes,No,No,Yes,No
+59,HyperTalk,"Application, RAD, general",No,Yes,No,No,No,No,Yes,Un­known
+60,Io,"Application, host-driven scripting",Yes,Yes,No,No,No,No,No,No
+61,IPL,General,No,No,Yes,No,No,No,No,Un­known
+62,ISLISP,General,Yes,Yes,Yes,No,Yes,No,No,"Yes1997, 2007, ISO"
+63,J,"Application, data processing",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+64,JADE,"Application, distributed",Yes,Yes,No,No,No,No,No,No
+65,Java,"Application, business, client-side, general, mobile development, server-side, web",Yes,Yes,Yes,Yes,Yes,Yes,Yes,De facto standard via Java Language Specification
+66,JavaScript,"Client-side, server-side, web",Yes,Yes,Yes,Yes,No,Yes,Yes,"Yes1997-2021, ECMA-262"
+67,Joy,Research,No,No,Yes,No,No,No,No,No
+68,Julia,"General, technical computing",Yes,Yes,Yes,Yes,Yes,Yes,No,No
+69,K,"Data processing, business",No,No,No,No,No,No,No,Un­known
+70,Kotlin,"Application, mobile development, server-side, client-side, web",Yes,Yes,Yes,Yes,Yes,Yes[29],Yes,De facto standard via Kotlin Language Specification
+71,Ksh,"Shell, scripting",Yes,Yes,No,Yes,No,No,No,"Yes1992, POSIX.2[13]"
+72,LabVIEW (G),"Application, industrial instrumentation-automation",Yes,Yes,Yes,No,No,No,Yes,No
+73,Lisp,General,No,No,Yes,No,No,No,No,Un­known
+74,LiveCode,"Application, RAD, general",No,Yes,No,No,No,No,Yes,No
+75,Logtalk,"Artificial intelligence, application",No,Yes,No,No,No,Yes,Yes,No
+76,Linden Scripting Language (LSL),Virtual worlds content scripting and animation,Yes,No,No,Yes,No,No,Yes,De facto reference is the Second Life implementation of LSL.[30]
+77,Lua,"Application, embedded scripting",Yes,Yes[31],Yes,Yes,No,Yes,No,No[32]
+78,Maple,"Symbolic computation, numerical computing",Yes,Yes,Yes,Yes,No,No,No,No
+79,Mathematica,Symbolic language,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+80,MATLAB,"Highly domain-specific, numerical computing",Yes,Yes,No,Yes,No,No,No,No
+81,Modula-2,"Application, system",Yes,No,No,No,Yes,No,No,"Yes1996, ISO[33]"
+82,Modula-3,Application,Yes,Yes,No,No,Yes,No,No,No
+83,MUMPS (M),"General, application, databases",Yes,Approved for next Standard,No,Yes,Partially Thru Indirection and Xecute,Yes,Approved for next Standard,"Yes1977 ANSI, 1995, ISO 2020"
+84,Nim,"Application, general, web, scripting, system",Yes,Yes,Yes,Yes,Yes,Yes,No,No
+85,Oberon,"Application, system",Yes,Yes,No,No,No,No,No,No
+86,Object Pascal,"Application, general, mobile app, web",Yes,Yes,No,Yes,Yes,Yes,Yes,No
+87,Objective-C,"Application, general",Yes,Yes,No,Yes,No,Yes,No,No
+88,OCaml,"Application, general",Yes,Yes,Yes,Yes,Yes,No,No,No
+89,Occam,General,Yes,No,No,Yes,No,No,No,No
+90,Opa,Web applications,Yes,No,Yes,No,Yes,No,No,No
+91,OpenLisp,"General, Embedded Lisp Engine",Yes,Yes,Yes,No,Yes,No,No,"YesSupersedes ISLISP, ISO"
+92,Oxygene,Application,Yes,Yes,No,No,Yes,No,No,No
+93,Oz-Mozart,"Application, distribution, education",Yes,Yes,Yes,No,No,No,No,No
+94,Pascal,"Application, education",Yes,No,No,Yes,No,No,No,"Yes1983, ISO[34]"
+95,Perl,"Application, scripting, text processing, Web",Yes,Yes,Yes,Yes,Yes,Yes,No,No
+96,PHP,"Server-side, web application, web",Yes,Yes[35],Yes[36],Yes,No,Yes,No,De facto standard via language specification and Requests for Comments (RFCs)
+97,PL/I,Application,Yes,Yes,No,Yes,No,No,No,"Yes1969, ECMA-50 (1976)"
+98,Plus,"Application, system development",Yes,No,No,Yes,No,No,No,No
+99,PostScript,"Graphics, page description",Yes,No,No,Yes,No,No,No,YesAs the PostScript Reference Manual[37]
+100,PowerShell,"Administration, application, general, scripting",Yes,Yes,Yes,Yes,No,Yes,No,No
+101,Prolog,"Application, artificial intelligence",No,No,Yes,Yes,No,Yes,No,"Yes1995, ISO/IEC 13211-1:1995, TC1 2007, TC2 2012, TC3 2017"
+102,PureBasic,Application,No,No,No,Yes,No,No,No,No
+103,Python,"Application, general, web, scripting, artificial intelligence, scientific computing",Yes,Yes,Yes,Yes,Yes,Yes,Yes,De facto standard via Python Enhancement Proposals (PEPs)
+104,R,"Application, statistics",Yes,Yes,Yes,Yes,No,Yes,No,No
+105,Racket,"Education, general, scripting",No,Yes,Yes,Yes,No,Yes,No,No
+106,Raku,"Scripting, text processing, glue",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+107,REALbasic,Application,No,No,No,Yes,No,No,No,Un­known
+108,Rebol,Distributed,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+109,REXX,Scripting,Yes,Yes (NetRexx and Object REXX dialects),No,Yes,No,No,No,Yes1996 (ANSI X3.274-1996)
+110,RPG,"Application, system",Yes,No,No,Yes,No,No,No,No
+111,Ring,Application,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+112,Ruby,"Application, scripting, web",Yes,Yes,Yes,No,No,Yes,No,"Yes2011(JIS X 3017), 2012(ISO/IEC 30170)"
+113,Rust,"Application, server-side, system, web",Yes,Yes[38],Yes,Yes,Yes,No[39],Yes,No
+114,S,"Application, statistics",Yes,Yes,Yes,Yes,No,No,No,No
+115,S-Lang,"Application, numerical, scripting",Yes,No,No,Yes,No,No,No,No
+116,Scala,"Application, distributed, web",Yes,Yes,Yes,No,Yes,Yes,Yes,De facto standard via Scala Language Specification (SLS)
+117,Scheme,"Education, general",No,No,Yes,No,No,No,No,"Yes1998, R6RS"
+118,Seed7,"Application, general, scripting, web",Yes,Yes,No,No,Yes,Yes,No,No
+119,Simula,"Education, general",Yes,Yes,No,No,No,No,Yes,Yes1968
+120,Small Basic,"Application, education, games",Yes,No,No,No,No,No,Yes,No
+121,Smalltalk,"Application, general, business, artificial intelligence, education, web",Yes,Yes,Yes,Yes,No,Yes,Yes,"Yes1998, ANSI"
+122,SNOBOL,Text processing,No,No,No,No,No,No,No,Un­known
+123,Standard ML,Application,Yes,No,Yes,No,Yes,No,No,"Yes1997, SML '97[40]"
+124,Swift,"Application, general",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+125,Tcl,"Application, scripting, web",Yes,Yes,Yes,Yes,No,Yes,Yes,No
+126,Visual Basic,"Application, RAD, education, business, general, (Includes VBA), office automation",Yes,Yes,No,No,Yes,No,Yes,No
+127,Visual Basic .NET,"Application, RAD, education, web, business, general",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+128,Visual FoxPro,Application,No,Yes,No,No,No,No,No,No
+129,Visual Prolog,Application,Yes,Yes,Yes,No,No,No,Yes,No
+130,Wolfram Language,Symbolic language,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+131,XL,,Yes,Yes,No,No,No,No,No,No
+132,Xojo,"Application, RAD, general, web",Yes,Yes,No,Yes,No,Yes,Yes,No
+133,XPath/XQuery,"Databases, data processing, scripting",No,No,Yes,No,No,No,No,"Yes1999 W3C XPath 1, 2010 W3C XQuery 1, 2014 W3C XPath/XQuery 3.0"
+134,Zeek,"Domain-specific, application",Yes,No,No,No,No,No,Yes,No
+135,Zig,"Application, general, system",Yes,No,Yes,Yes,Yes,Yes,Yes,No
+136,Zsh,"Shell, scripting",Yes,No,No,Yes,No,No,No,No
